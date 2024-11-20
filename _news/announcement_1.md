@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2024-7-10
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Starting Research Internship in University of Alberta supervised by Bin Han!
