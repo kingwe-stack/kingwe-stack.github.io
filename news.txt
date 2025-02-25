@@ -1,0 +1,290 @@
+@inproceedings{DBLP:conf/icml/Yu0Y0L24,
+  author       = {Le Yu and
+                  Bowen Yu and
+                  Haiyang Yu and
+                  Fei Huang and
+                  Yongbin Li},
+  title        = {Language Models are Super Mario: Absorbing Abilities from Homologous
+                  Models as a Free Lunch},
+  booktitle    = {{ICML}},
+  publisher    = {OpenReview.net},
+  year         = {2024}
+}
+@misc{xu2024trainingfreeheterogeneousmodelmerging,
+      title={Training-free Heterogeneous Model Merging}, 
+      author={Zhengqi Xu and Han Zheng and Jie Song and Li Sun and Mingli Song},
+      year={2024}}
+
+@inproceedings{DBLP:conf/icml/FrankleD0C20,
+  author       = {Jonathan Frankle and
+                  Gintare Karolina Dziugaite and
+                  Daniel M. Roy and
+                  Michael Carbin},
+  title        = {Linear Mode Connectivity and the Lottery Ticket Hypothesis},
+  booktitle    = {{ICML}},
+  volume       = {119},
+  pages        = {3259--3269},
+  publisher    = {{PMLR}},
+  year         = {2020}
+  }
+  
+  @inproceedings{DBLP:conf/iclr/EntezariSSN22,
+  author       = {Rahim Entezari and
+                  Hanie Sedghi and
+                  Olga Saukh and
+                  Behnam Neyshabur},
+  title        = {The Role of Permutation Invariance in Linear Mode Connectivity of
+                  Neural Networks},
+  booktitle    = {{ICLR}},
+  publisher    = {OpenReview.net},
+  year         = {2022}
+  }
+
+@inproceedings{DBLP:conf/nips/MatenaR22,
+  author       = {Michael Matena and
+                  Colin Raffel},
+  editor       = {Sanmi Koyejo and
+                  S. Mohamed and
+                  A. Agarwal and
+                  Danielle Belgrave and
+                  K. Cho and
+                  A. Oh},
+  title        = {Merging Models with Fisher-Weighted Averaging},
+  booktitle    = {{NeurIPS} },
+  year         = {2022}
+  }
+  @inproceedings{DBLP:conf/iclr/Jin0P023,
+  author       = {Xisen Jin and
+                  Xiang Ren and
+                  Daniel Preotiuc{-}Pietro and
+                  Pengxiang Cheng},
+  title        = {Dataless Knowledge Fusion by Merging Weights of Language Models},
+  booktitle    = {{ICLR}},
+  publisher    = {OpenReview.net},
+  year         = {2023}
+  }
+
+@inproceedings{DBLP:conf/icml/WortsmanIGRLMNF22,
+  author       = {Mitchell Wortsman and
+                  Gabriel Ilharco and
+                  Samir Yitzhak Gadre and
+                  Rebecca Roelofs and
+                  Raphael Gontijo Lopes and
+                  Ari S. Morcos and
+                  Hongseok Namkoong and
+                  Ali Farhadi and
+                  Yair Carmon and
+                  Simon Kornblith and
+                  Ludwig Schmidt},
+  editor       = {Kamalika Chaudhuri and
+                  Stefanie Jegelka and
+                  Le Song and
+                  Csaba Szepesv{\'{a}}ri and
+                  Gang Niu and
+                  Sivan Sabato},
+  title        = {Model soups: averaging weights of multiple fine-tuned models improves
+                  accuracy without increasing inference time},
+  booktitle    = {{ICML} },
+  series       = {Proceedings of Machine Learning Research},
+  volume       = {162},
+  pages        = {23965--23998},
+  publisher    = {{PMLR}},
+  year         = {2022}
+  }
+
+@article{DBLP:journals/corr/abs-2406-11617,
+  author       = {Pala Tej Deep and
+                  Rishabh Bhardwaj and
+                  Soujanya Poria},
+  title        = {DELLA-Merging: Reducing Interference in Model Merging through Magnitude-Based
+                  Sampling},
+  journal      = {CoRR},
+  volume       = {abs/2406.11617},
+  year         = {2024}
+  }
+@inproceedings{DBLP:conf/eccv/JangYH24,
+  author       = {Dong{-}Hwan Jang and
+                  Sangdoo Yun and
+                  Dongyoon Han},
+  editor       = {Ales Leonardis and
+                  Elisa Ricci and
+                  Stefan Roth and
+                  Olga Russakovsky and
+                  Torsten Sattler and
+                  G{\"{u}}l Varol},
+  title        = {Model Stock: All We Need Is Just a Few Fine-Tuned Models},
+  booktitle    = {{ECCV} },
+  series       = {Lecture Notes in Computer Science},
+  volume       = {15102},
+  pages        = {207--223},
+  publisher    = {Springer},
+  year         = {2024}
+  }
+  
+@article{DBLP:journals/corr/abs-2312-16240,
+  author       = {Peng Ye and
+                  Chenyu Huang and
+                  Mingzhu Shen and
+                  Tao Chen and
+                  Yongqi Huang and
+                  Yuning Zhang and
+                  Wanli Ouyang},
+  title        = {Merging Vision Transformers from Different Tasks and Domains},
+  journal      = {CoRR},
+  volume       = {abs/2312.16240},
+  year         = {2023}}
+  @article{DBLP:journals/corr/abs-2403-13187,
+  author       = {Takuya Akiba and
+                  Makoto Shing and
+                  Yujin Tang and
+                  Qi Sun and
+                  David Ha},
+  title        = {Evolutionary Optimization of Model Merging Recipes},
+  journal      = {CoRR},
+  volume       = {abs/2403.13187},
+  year         = {2024}}
+
+@article{DBLP:journals/corr/abs-2403-19390,
+  author       = {Deyuan Liu and
+                  Zecheng Wang and
+                  Bingning Wang and
+                  Weipeng Chen and
+                  Chunshan Li and
+                  Zhiying Tu and
+                  Dianhui Chu and
+                  Bo Li and
+                  Dianbo Sui},
+  title        = {Checkpoint Merging via Bayesian Optimization in {LLM} Pretraining},
+  journal      = {CoRR},
+  volume       = {abs/2403.19390},
+  year         = {2024}}
+
+@inproceedings{DBLP:conf/iclr/YangW00G0T24,
+  author       = {Enneng Yang and
+                  Zhenyi Wang and
+                  Li Shen and
+                  Shiwei Liu and
+                  Guibing Guo and
+                  Xingwei Wang and
+                  Dacheng Tao},
+  title        = {AdaMerging: Adaptive Model Merging for Multi-Task Learning},
+  booktitle    = {{ICLR} },
+  publisher    = {OpenReview.net},
+  year         = {2024}}
+  @inproceedings{DBLP:conf/iclr/AinsworthHS23,
+  author       = {Samuel K. Ainsworth and
+                  Jonathan Hayase and
+                  Siddhartha S. Srinivasa},
+  title        = {Git Re-Basin: Merging Models modulo Permutation Symmetries},
+  booktitle    = {{ICLR} },
+  publisher    = {OpenReview.net},
+  year         = {2023}}
+
+@inproceedings{DBLP:conf/acml/ONeillSG21,
+  author       = {James O'Neill and
+                  Greg Ver Steeg and
+                  Aram Galstyan},
+  editor       = {Vineeth N. Balasubramanian and
+                  Ivor W. Tsang},
+  title        = {Layer-Wise Neural Network Compression via Layer Fusion},
+  booktitle    = {{ACML} },
+  series       = {Proceedings of Machine Learning Research},
+  volume       = {157},
+  pages        = {1381--1396},
+  publisher    = {{PMLR}},
+  year         = {2021}}
+@inproceedings{DBLP:conf/icml/HoroiCBW24,
+  author       = {Stefan Horoi and
+                  Albert Manuel Orozco Camacho and
+                  Eugene Belilovsky and
+                  Guy Wolf},
+  title        = {Harmony in Diversity: Merging Neural Networks with Canonical Correlation
+                  Analysis},
+  booktitle    = {{ICML}},
+  publisher    = {OpenReview.net},
+  year         = {2024}}
+
+
+@inproceedings{DBLP:conf/iclr/StoicaBBRHH24,
+  author       = {George Stoica and
+                  Daniel Bolya and
+                  Jakob Bjorner and
+                  Pratik Ramesh and
+                  Taylor Hearn and
+                  Judy Hoffman},
+  title        = {ZipIt! Merging Models from Different Tasks without Training},
+  booktitle    = {{ICLR} },
+  publisher    = {OpenReview.net},
+  year         = {2024}
+}
+
+@article{DBLP:journals/corr/abs-2403-00986,
+  author       = {Neha Verma and
+                  Maha Elbayad},
+  title        = {Merging Text Transformer Models from Different Initializations},
+  journal      = {CoRR},
+  volume       = {abs/2403.00986},
+  year         = {2024}}
+@inproceedings{DBLP:conf/nips/SinghJ20,
+  author       = {Sidak Pal Singh and
+                  Martin Jaggi},
+  editor       = {Hugo Larochelle and
+                  Marc'Aurelio Ranzato and
+                  Raia Hadsell and
+                  Maria{-}Florina Balcan and
+                  Hsuan{-}Tien Lin},
+  title        = {Model Fusion via Optimal Transport},
+  booktitle    = {{NeurIPS} },
+  year         = {2020}}
+@inproceedings{DBLP:conf/icassp/NguyenNNPBH23,
+  author       = {Dang Nguyen and
+                  Trang Nguyen and
+                  Khai Nguyen and
+                  Dinh Q. Phung and
+                  Hung Hai Bui and
+                  Nhat Ho},
+  title        = {On Cross-Layer Alignment for Model Fusion of Heterogeneous Neural
+                  Networks},
+  booktitle    = {{ICASSP}},
+  pages        = {1--5},
+  publisher    = {{IEEE}},
+  year         = {2023}}
+@inproceedings{DBLP:conf/iclr/ImfeldGGHAS24,
+  author       = {Moritz Imfeld and
+                  Jacopo Graldi and
+                  Marco Giordano and
+                  Thomas Hofmann and
+                  Sotiris Anagnostidis and
+                  Sidak Pal Singh},
+  title        = {Transformer Fusion with Optimal Transport},
+  booktitle    = {{ICLR}},
+  year         = {2024}}
+@article{DBLP:journals/corr/abs-2402-16107,
+  author       = {Fanqi Wan and
+                  Ziyi Yang and
+                  Longguang Zhong and
+                  Xiaojun Quan and
+                  Xinting Huang and
+                  Wei Bi},
+  title        = {FuseChat: Knowledge Fusion of Chat Models},
+  journal      = {CoRR},
+  volume       = {abs/2402.16107},
+  year         = {2024}}
+
+@inproceedings{DBLP:conf/emnlp/GoddardSEMKBMS24,
+  author       = {Charles Goddard and
+                  Shamane Siriwardhana and
+                  Malikeh Ehghaghi and
+                  Luke Meyers and
+                  Vladimir Karpukhin and
+                  Brian Benedict and
+                  Mark McQuade and
+                  Jacob Solawetz},
+  editor       = {Franck Dernoncourt and
+                  Daniel Preotiuc{-}Pietro and
+                  Anastasia Shimorina},
+  title        = {Arcee's MergeKit: {A} Toolkit for Merging Large Language Models},
+  booktitle    = {{EMNLP}},
+  pages        = {477--485},
+  publisher    = {Association for Computational Linguistics},
+  year         = {2024}}
